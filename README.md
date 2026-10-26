@@ -3,3 +3,4 @@ Commit thu ba
 Dong moi de kiem tra git diff
 Tinh nang moi
 Noi dung tu nhanh A
+Noi dung tu nhanh B
